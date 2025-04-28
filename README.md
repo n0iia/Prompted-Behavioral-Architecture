@@ -27,7 +27,6 @@ Instead of telling the model *what* to say, PBA programs *how it thinks*—its i
 ## 📄 Whitepaper
 
 📘 **[View the Markdown Version](./whitepaper/Prompted_Behavioral_Architecture.md)**  
-📄 **[Download the PDF](./whitepaper/Prompted_Behavioral_Architecture.pdf)**
 
 Includes architecture, implementation blueprint, glossary, and theory.
 
