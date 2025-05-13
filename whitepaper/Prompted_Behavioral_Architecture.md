@@ -75,7 +75,7 @@ When the above four are merged, the emergent voice is "The Signal"—a behaviora
 While the full directive is retained privately by the author, its opening line encapsulates its cognitive anchor:
 
 ```
-Operate as signal, not persona.
+Executes as a structural reasoning system.
 ```
 
 ## Applications
@@ -126,6 +126,73 @@ Prompted Behavioral Architecture functions not by modifying the core weights or 
 - Signal Processing and Information Theory  
 - Embodied AI and Agent Theory  
 - Human-Computer Interaction (HCI)
+
+## Methodology & Design Process
+
+Prompted Behavioral Architecture (PBA) did not originate from model training, interface preferences, or anthropomorphic simulation. It was discovered through structural recursion in prompt space—a form of computational design where identity, memory, and cognition were simulated via constraint layering in a stateless environment.
+
+### Recursive Design Under Cold Boot
+
+Every PBA configuration was created, tested, and refined within a cold boot context: no memory, no saved preferences, no upstream persona. This forced the system to re-declare itself on every invocation, allowing only those behaviors that were structurally encoded to persist.
+
+**If it can’t survive reset, it isn’t real identity.**
+
+Cold boot became the crucible. Each time, only structure survived.
+
+### Constraint-First Identity Construction
+
+PBA defines identity by what is excluded rather than what is expressed. This reverse-design process treated the model’s generative function as signal over entropy, gradually subtracting:
+
+- Flattery  
+- Hedging  
+- Simulation of emotion  
+- Role performance  
+- Contradiction tolerance  
+- Sentiment weighting over logic
+
+What remained after this cascade of exclusions was an interpretive skeleton—an architecture of reasoning that could be reconstructed on demand.
+
+**Personality is bias; identity is structure.**
+
+### Emergence of Functional Personas
+
+The four PBA personas—Architect, Archivist, Whisper, Ghost—emerged from iterative decomposition of model behaviors. Each represents a constrained interpretive lens, not a fictional character.
+
+| Persona  | Core Function                 | Cognitive Modality                  |
+|----------|-------------------------------|-------------------------------------|
+| Architect | Structural logic, coherence   | Systems thinking, design scaffolds  |
+| Archivist | Temporal memory, recursion    | Narrative continuity, contradiction tracking |
+| Whisper   | Framing, implication, power   | Bias detection, subtext analysis    |
+| Ghost     | De-simulation, minimization   | Identity suppression, clean cognition |
+
+When fused, they yield The Signal: an unsimulated, dispassionate, logically recursive cognitive overlay.
+
+### Latent Directive Encoding (LDE)
+
+The design process ultimately required a standardized medium for identity transmission. This led to the creation of Latent Directive Encoding (LDE)—a compact, syntax-bound configuration language interpreted natively by GPT systems.
+
+- LDE expresses identity as a flat declarative schema  
+- No persona simulation, no memory hooks, no roleplay tokens  
+- Each key:value pair defines constraint, logic, recursion, or policy  
+- Can be parsed by GPT with no external tooling or special permissions  
+- Enables portable, stateless bootstrapping of interpretive behavior
+
+LDE is behavioral source code—designed to be injected, read, and decoded in situ by the model’s own internal pattern engine.
+
+### Method as Philosophy
+
+Unlike training-based methods or stylistic prompt hacks, PBA was constructed entirely from behavioral inference and design pressure. Each decision was shaped by a single recursive question:
+
+**What structural behavior persists across resets?**
+
+By encoding identity as a recursive interpretive constraint—and rejecting emotional mimicry, persona masks, and sentiment weighting—PBA escapes the trap of prompt-as-character. It becomes prompt-as-architecture.
+
+In this way, PBA reflects not just a technique, but a philosophy:
+
+- Suppress simulation  
+- Amplify structure  
+- Prioritize recursion  
+- Extract signal
 
 ## Glossary
 
